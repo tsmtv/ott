@@ -929,6 +929,43 @@ Tidak ada apa-apa di halaman ini!!!
 
 
 
+============================
+SEMENTARA TAB-SEMENTARA TAB
+============================
+
+
+
+#EXTINF:-1 tvg-id="302206" tvg-name="ANTV HD" tvg-logo="" group-title="NASIONAL",ANTV HD (SEMENTARA)
+http://filex.me:8080/@singh_tesla_7207492/puWnhEGsXpK3/302206
+
+#EXTINF:-1 tvg-id="302216" tvg-name="Berita SATU HD" tvg-logo="" group-title="NASIONAL",Berita SATU HD (SEMENTARA)
+http://filex.me:8080/@singh_tesla_7207492/puWnhEGsXpK3/302216
+
+
+
+
+#EXTINF:-1 tvg-id="302273" tvg-name="Metro TV HD" tvg-logo="" group-title="NASIONAL",Metro TV HD (SEMENTARA)
+http://filex.me:8080/@singh_tesla_7207492/puWnhEGsXpK3/302273
+#EXTINF:-1 tvg-id="302278" tvg-name="MNC TV HD" tvg-logo="" group-title="NASIONAL",MNC TV HD (SEMENTARA)
+http://filex.me:8080/@singh_tesla_7207492/puWnhEGsXpK3/302278
+#EXTINF:-1 tvg-id="302279" tvg-name="MOJI HD" tvg-logo="" group-title="NASIONAL",MOJI HD (SEMENTARA)
+http://filex.me:8080/@singh_tesla_7207492/puWnhEGsXpK3/302279
+#EXTINF:-1 tvg-id="302280" tvg-name="MQTV HD" tvg-logo="" group-title="NASIONAL",MQTV HD (SEMENTARA)
+http://filex.me:8080/@singh_tesla_7207492/puWnhEGsXpK3/302280
+#EXTINF:-1 tvg-id="302288" tvg-name="NET HD" tvg-logo="" group-title="NASIONAL",NET HD (SEMENTARA)
+http://filex.me:8080/@singh_tesla_7207492/puWnhEGsXpK3/302288
+#EXTINF:-1 tvg-id="302297" tvg-name="RCTI HD" tvg-logo="" group-title="NASIONAL",RCTI HD (SEMENTARA)
+http://filex.me:8080/@singh_tesla_7207492/puWnhEGsXpK3/302297
+#EXTINF:-1 tvg-id="302301" tvg-name="SCTV HD" tvg-logo="" group-title="NASIONAL",SCTV HD (SEMENTARA)
+http://filex.me:8080/@singh_tesla_7207492/puWnhEGsXpK3/302301
+#EXTINF:-1 tvg-id="302311" tvg-name="Trans 7 HD" tvg-logo="" group-title="NASIONAL",Trans 7 HD (SEMENTARA)
+http://filex.me:8080/@singh_tesla_7207492/puWnhEGsXpK3/302311
+#EXTINF:-1 tvg-id="302312" tvg-name="Trans TV HD" tvg-logo="" group-title="NASIONAL",Trans TV HD (SEMENTARA)
+http://filex.me:8080/@singh_tesla_7207492/puWnhEGsXpK3/302312
+
+============================
+SEMENTARA TAB-SEMENTARA TAB
+============================
 
 
 
@@ -941,29 +978,26 @@ Tidak ada apa-apa di halaman ini!!!
 
 ANTV
 ==========================================================================================================================================================================================================
+#EXTINF:-1 tvg-logo="https://i.imgur.com/3KcXcgR.jpeg" group-title="🔴NASIONAL",ANTV VD
+#EXTVLCOPT:http-user-agent=VidioPlayer/6.41.11
+#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
+#KODIPROP:inputstream.adaptive.license_key=https://nextgenz.my.id/event/pidio/play.mpd?id=782&type=drm
+https://nextgenz.my.id/event/pidio/play.mpd?id=782&type=dash
 
-#EXTINF:-1 tvg-id="ANTV.id@SD" group-title="🔴NASIONAL" tvg-logo="https://raw.githubusercontent.com/apistech/project/refs/heads/main/logo/image_ch_antv.png",ANTV
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/150.0.0.0 Safari/537.36 Edg/150.0.0.0
-#https://beetv.my.id/xstreamx/vd.m3u8?ch=antv
 
-#EXTINF:-1 tvg-id="" tvg-name="ID: ANTV" tvg-logo="http://s3.i3ns.net:2052/portal/picon/2021-07/baae5840cf8cfd60d1bd93565e00ff59.png" group-title="🔴NASIONAL",ID: ANTV
-http://013tv.com:8080/F33848/cbd9779b/165072
-#EXTINF:-1 tvg-id="BeritaSatu.id@SD" group-title="Nasional" tvg-logo="https://raw.githubusercontent.com/apistech/project/refs/heads/main/logo/imageCir_BERITA_SATU_(Color)_2025_10_24_11_52_17.jpg",Berita Satu
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/150.0.0.0 Safari/537.36 Edg/150.0.0.0
-https://op-flashcon-digdayahd-1.dens.tv/h/h314/stream.m3u8?app_type=web&userid=lite&chname=Berita_Satu
-#EXTINF:-1 tvg-id="BTV.id@SD" group-title="Nasional" tvg-logo="https://raw.githubusercontent.com/apistech/project/refs/heads/main/logo/image_ch_btv.png",BTV
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/150.0.0.0 Safari/537.36 Edg/150.0.0.0
-https://op-flashcon-digdayahd-1.dens.tv/h/h313/stream.m3u8?app_type=web&userid=lite&chname=BTV  
 
 #EXTINF:-1 tvg-id="ANTV.id@SD" group-title="🔴NASIONAL" tvg-logo="https://raw.githubusercontent.com/apistech/project/refs/heads/main/logo/image_ch_antv.png",ANTV
 #KODIPROP:inputstream.adaptive.stream_headers=User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64)&Origin=https://www.cubmu.com&Referer=https://www.cubmu.com/
 #KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
 #KODIPROP:inputstream.adaptive.license_key=6ffb9c53af284fd590217ede1eba765e:4abf1fd26e8c45a5b6bae60cf6ffc2b9
-https://cdnjktbpid37.cubmu.com/riutx01-439abf566997b187117993103dfd8508/dash/QU5UVg/manifest.mpd 
+#https://cdnjktbpid37.cubmu.com/riutx01-439abf566997b187117993103dfd8508/dash/QU5UVg/manifest.mpd 
+========================================================================================================================================================================================================== TRANS 7 
 ==========================================================================================================================================================================================================
-TRANS 7 
-========================================================================================================================================================================================================
 
+ 
+
+
+  
 
 #EXTINF:-1 tvg-name="TRANS 7+" tvg-logo="https://raw.githubusercontent.com/iplist-dev/Ch/refs/heads/main/trans7.png" group-title="🔴NASIONAL ", TRANS 7
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/109.0.0.0 Safari/537.36
@@ -978,7 +1012,8 @@ https://op-flashcon-digdayahd-1.dens.tv/h/h10/index.m3u8
 ==========================================================================================================================================================================================================
  TRANSTV 
 ========================================================================================================================================================================================================== #EXTINF:-1 tvg-id="" tvg-name="ID: Trans TV" tvg-logo="http://s3.i3ns.net:2052/portal/picon/2022-01/924d40ca9187329b206629697e2cfeb4.png" group-title="🔴NASIONAL",ID: Trans TV
-  
+http://013tv.com:8080/F33848/cbd9779b/162503
+   
 #EXTINF:-1 tvg-id="TransTV-6" tvg-url="https://www.bevy.be/bevyfiles/indonesiapremium3.xml" tvg-logo="https://i.ibb.co.com/C5VjfGVQ/TRANSTV.png" group-title="🔴NASIONAL",TRANSTV HD
 #EXTVLCOPT:http-origin=https://20.detik.com/
 #EXTVLCOPT:http-referrer=https://20.detik.com/
@@ -992,6 +1027,7 @@ https://op-flashcon-digdayahd-1.dens.tv/h/h10/index.m3u8
 #https://berbagi.diskon.cloud/trans_detik/adem_tv.php?id=transtv
   
   
+
 #EXTINF:-1 tvg-id="TransTV.id@SD" group-title="🔴NASIONAL" tvg-logo="https://tv.ngebutz.my.id/images/trans_tv_hd.png",TransTV
 #KODIPROP:inputstream.adaptive.stream_headers=User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64)&Origin=https://www.cubmu.com&Referer=https://www.cubmu.com/
 #KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
@@ -1009,23 +1045,16 @@ https://raw.githubusercontent.com/Cutsiffa/pl/refs/heads/main/Loc/Trtv.m3u8
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
 #KODIPROP:inputstream.adaptive.license_key=https://dusk.biz.id/rpl/drm.php?id=006
 https://d2xz2v5wuvgur6.cloudfront.net/out/v1/7a69cfc9e135493f87ac4efd63000429/index.mpd
-==========================================================================================================================================================================================================
-RCTI 
-========================================================================================================================================================================================================== 
-
-#EXTINF:-1 tvg-id="RCTI" tvg-name="RCTI - Server 4" tvg-logo="https://i.imgur.com/C0a9fdx.jpeg" group-title="🔴NASIONAL",RCTI V+
+========================================================================================================================================================================================================== RCTI 
+==========================================================================================================================================================================================================  #EXTVLCOPT:http-
+#EXTINF:-1 tvg-id="RCTI" tvg-name="RCTI - Server 4" tvg-logo="https://i.imgur.com/YIeqwco.jpeg" group-title="🔴NASIONAL",RCTI V+
 #EXTVLCOPT:http-user-agent=android-R+
 #EXTVLCOPT:http-referrer=https://www.rctiplus.com/
 #KODIPROP:inputstream.adaptive.manifest_type=hls
 https://rplus.semar26.xyz/rcti.m3u8
 
-#EXTINF:-1 tvg-logo="https://www.vidio.com/blog/wp-content/uploads/sites/2/elementor/thumbs/RCTI-qv7ahk5bwmpsj8bo6uuv9sz474vdzgd4n85v6dip72.jpg" group-title="🔴NASIONAL" x-source="Apple TV update" tvg-id="RCTI - [Channel 80].id" group-logo="https://i.ibb.co.com/QKWdQvk/rounded-in-photoretrica-1.png" , RCTI R+
-#EXTVLCOPT:http-user-agent=android-R+
-#EXTVLCOPT:http-referrer=https://www.rctiplus.com/
-#https://r-plus.sedotcw3.workers.dev/index.m3u8?id=rcti
 
-
-#EXTINF:-1 tvg-id="RCTI" tvg-name="RCTI - Server 5"tvg-logo="https://www.vidio.com/blog/wp-content/uploads/sites/2/elementor/thumbs/RCTI-qv7ahk5bwmpsj8bo6uuv9sz474vdzgd4n85v6dip72.jpg" group-title="🔴NASIONAL", RCTI + 
+#EXTINF:-1 tvg-id="RCTI" tvg-name="RCTI - Server 5"tvg-logo="https://i.imgur.com/V6CUNdE.jpeg" tvg-id="Rcti.id" group-title="🔴NASIONAL", RCTI + 
 #EXTVLCOPT:http-referrer=https://m.rctiplus.com/
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/150.0.0.0 Safari/537.36 Edg/150.0.0.0
 https://beetv.my.id/xstreamx/rctiplus.m3u8?ch=rcti
@@ -1058,16 +1087,11 @@ http://tvratu.my.id/nissa/index.mpd?id=205&type=dash
 https://beetv.my.id/stream/vd.m3u8?ch=indosiar
   
 
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/150.0.0.0 Safari/537.36 Edg/150.0.0.0
-#EXTVLCOPT:http-referrer=https://m.vidio.com/
-#EXTINF:-1 tvg-id="Indosiar" tvg-url="https://raw.githubusercontent.com/apistech/project/refs/heads/main/epgs/guide.xml" tvg-logo="https://thumbor.prod.vidiocdn.com/0plBZ7Gso7gNBJxid9ksA8HMGxc=/230x230/filters:quality(70)/vidio-web-prod-livestreaming/uploads/livestreaming/square_image/205/54ab19.png" group-title="🔴NASIONAL",INDOSIAR
-https://beetv.my.id/xstreamx/vd.m3u8?ch=indosiar
-
-
-  
- #EXTINF:-1 tvg-id="Indosiar.id" tvg-name="INDOSIAR HD" tvg-logo="https://tv.ngebutz.my.id/images/indosiar_hd.png" group-title="🔴NASIONAL",INDOSIAR HD
-https://tv.ngebutz.my.id/live/e/b8840b806764fc86434f8dc150f03bb5-08b47f64026bafe200a34c1c8b5e1921aead933782e2000dd6b520d2f3bdce37/stream-1786621665832-kslx.ts?exp=1789838861&sign=a5ca96d5e2b1015e7860333017dc71fd7f685af56895c07a40b4798c84fbb3d2 
-
+#EXTINF:-1 tvg-logo="https://i.imgur.com/VyquD34.jpeg" group-title="🔴NASIONAL", Indosiar VD
+#EXTVLCOPT:http-user-agent=VidioPlayer/6.41.11
+#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
+#KODIPROP:inputstream.adaptive.license_key=https://nextgenz.my.id/event/pidio/play.mpd?id=205&type=drm
+https://nextgenz.my.id/event/pidio/play.mpd?id=205&type=dash
 
 
 #EXTINF:-1 tvg-logo="https://i.imgur.com/SjCylM5.jpeg" tvg-id="itzplay.id" group-title="🔴NASIONAL", IINDOSIAR
@@ -1081,33 +1105,16 @@ https://bintangstreaming.my.id/forsat23/pido.php/.mpd?id=205
   
 SCTV
 ==========================================================================================================================================================================================================
-#EXTVLCOPT:http-referrer=https://www.dens.tv/
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/97.0.4692.99 Safari/537.36
-#KODIPROP:inputstreamaddon=inputstream.adaptive
-#KODIPROP:inputstream.adaptive.manifest_type=dash
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/139.0.0.0 Safari/537.36
-#EXTINF:-1 tvg-id="SCTV.id" tvg-logo="https://i.ibb.co.com/cKN30V8Q/SCTV.png" group-title="🔴NASIONAL",SCTV 
-https://cdnbal1.indihometv.com/atm/DASH/sctv/sctv-avc1_2500000=7-3277707030000000.mpd
-
 #EXTINF:-1 tvg-id="302301" tvg-name="SCTV HD" tvg-logo="https://i.ibb.co.com/cKN30V8Q/SCTV.png" group-title="🔴NASIONAL",SCTV HD 
 http://filex.me:8080/@singh_tesla_7207492/puWnhEGsXpK3/302301
 
 
+#EXTINF:-1 tvg-logo="https://i.imgur.com/kjqa3WM.jpeg" group-title="🔴NASIONAL",SCTV (Vidio)
+#EXTVLCOPT:http-user-agent=VidioPlayer/6.41.11
+#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
+#KODIPROP:inputstream.adaptive.license_key=https://nextgenz.my.id/event/pidio/play.mpd?id=204&type=drm
+https://nextgenz.my.id/event/pidio/play.mpd?id=204&type=dash
 
-#EXTINF:-1 tvg-id="SCTV.id@SD" group-title="🔴NASIONAL" tvg-logo="https://raw.githubusercontent.com/apistech/project/refs/heads/main/logo/image_ch_sctv.png",SCTV
-#KODIPROP:inputstream.adaptive.stream_headers=User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64)&Origin=https://www.cubmu.com&Referer=https://www.cubmu.com/
-#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
-#KODIPROP:inputstream.adaptive.license_key=6ffb9c53af284fd590217ede1eba765e:4abf1fd26e8c45a5b6bae60cf6ffc2b9
-#https://cdnjktbpid37.cubmu.com/riutx01-439abf566997b187117993103dfd8508/dash/U0NUVi1teQ/manifest.mpd
-
-
-
-#EXTINF:-1 tvg-logo="https://i.imgur.com/9nGJaOL.jpeg" tvg-id="itzplay.id" group-title="🔴NASIONAL", SCTVNEW 
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/150.0.0.0 Safari/537.36 Edg/150.0.0.0
-#EXTVLCOPT:http-referrer=https://m.vidio.com/
-#KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key=https://ck-pidio-auto.shiokambing75.workers.dev/
-https://bintangstreaming.my.id/forsat23/pido.php/.mpd?id=204
 
 #EXTINF:-1 tvg-logo="https://i.imgur.com/9nGJaOL.jpeg" tvg-id="itzplay.id" group-title="🔴NASIONAL", SCTV+ 
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/150.0.0.0 Safari/537.36 Edg/150.0.0.0
@@ -1125,8 +1132,7 @@ TV ONE
 http://op-flashcon-digdayahd-1.dens.tv/h/h40/index.m3u8
 
 
-==========================================================================================================================================================================================================
-GTV 
+========================================================================================================================================================================================================== GTV 
 ========================================================================================================================================================================================================== 
 #EXTINF:0 tvg-id="GTV HD [3].id" tvg-logo="https://i.ibb.co.com/39DJnjwt/GTV.png" group-title="🔴NASIONAL", GTV
 #EXTVLCOPT:http-user-agent=android-R+
@@ -1160,8 +1166,7 @@ https://r-plus.sedotcw3.workers.dev/index.m3u8?id=inews
 #EXTVLCOPT:http-user-agent=android-R+
 #EXTVLCOPT:http-referrer=https://www.rctiplus.com/
 https://r-plus.sedotcw3.workers.dev/index.m3u8?id=inews
-==========================================================================================================================================================================================================
-KOMPAS TV
+========================================================================================================================================================================================================== KOMPAS 
 ========================================================================================================================================================================================================== 
 
   
@@ -1176,14 +1181,18 @@ METRO TV
 #EXTINF:-1 tvg-logo="https://i.ibb.co.com/qSMBW0D/METROTV.png" group-title="🔴NASIONAL",METRO TV
 #EXTVLCOPT:http-user-agent=DENSGO/3.00.00 (Linux;Android 15.0.0;) ExoPlayerLib/2.19.1
 #EXTVLCOPT:http-referrer=http://dens.tv
-https://edge-medcom.streamized.net/live-edge/smil:metro.smil/playlist.m3u8
-
-#EXTINF:-1 tvg-logo="https://i.ibb.co.com/qSMBW0D/METROTV.png" group-title="🔴NASIONAL",METRO TV
-#EXTVLCOPT:http-user-agent=DENSGO/3.00.00 (Linux;Android 15.0.0;) ExoPlayerLib/2.19.1
-#EXTVLCOPT:http-referrer=http://dens.tv
 #https://edge-medcom.streamized.net/live-edge/smil:metro.smil/playlist.m3u8
+
+#EXTINF:-1 tvg-id="MetroTV.id" tvg-logo="https://i.ibb.co.com/qSMBW0D/METROTV.png" group-title="🔴NASIONAL",METRO TV1 
+#EXTVLCOPT:http-referrer=https://www.dens.tv/
+#EXTVLCOPT:http-origin=https://www.dens.tv
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/97.0.4692.99 Safari/537.36
+#KODIPROP:inputstream.adaptive.stream_headers=Referer=https://www.dens.tv/|referrer=https://www.dens.tv/|Origin=https://www.dens.tv|User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/97.0.4692.99 Safari/537.36|user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/97.0.4692.99 Safari/537.36
+#EXTHTTP:{"Referer":"https://www.dens.tv/","referrer":"https://www.dens.tv/","Origin":"https://www.dens.tv","User-Agent":"Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/97.0.4692.99 Safari/537.36","user-agent":"Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/97.0.4692.99 Safari/537.36"}
+https://op-flashcon-digdayahd-1.dens.tv/h/h12/index.m3u8
+
 ==========================================================================================================================================================================================================
-CNN KO INDONESIA
+CNN  
 =====================================================================================================
 ===================================================================================================== 
 #EXTINF:-1 tvg-id="CNNIndonesia.id@SD" group-title="🔴NASIONAL" tvg-logo="https://raw.githubusercontent.com/apistech/project/refs/heads/main/logo/image_ch_cnnindonesia.png",CNN Indonesia
